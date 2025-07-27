@@ -1,4 +1,4 @@
 Flask==2.1.2
 requests==2.26.0
-pillow==8.3.2
+Pillow==8.4.0 --prefer-binary
 numpy==1.21.4
